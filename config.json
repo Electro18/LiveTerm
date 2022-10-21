@@ -28,12 +28,12 @@
     },
     "dark": {
       "background": "#20201D",
-      "foreground": "#A6A28C",
-      "yellow": "#AE9513",
-      "green": "#60AC39",
+      "foreground": "#E5E9F0",
+      "yellow": "#5E81AC",
+      "green": "#A3BE8C",
       "gray": "#88C0D0",
-      "blue": "#6684E1",
-      "red": "#D73737"
+      "blue": "#EBCB8B",
+      "red": "#BF616A"
     }
   }
 }
