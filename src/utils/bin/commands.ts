@@ -101,16 +101,18 @@ export const whoami = async (args: string[]): Promise<string> => {
 };
 
 export const ls = async (args: string[]): Promise<string> => {
-  return `a
-bunch
-of
-fake
-directories`;
+  return `ASUS090
+fiji_0
+Hyper_CoolYT
+iKnowMomin
+iKnowMomin [Backup]
+realishubhgamer
+RobotEloj
+troopercopp1224`;
 };
 
 export const cd = async (args: string[]): Promise<string> => {
-  return `unfortunately, i cannot afford more directories.
-if you want to help, you can type 'donate'.`;
+  return `Command in build`;
 };
 
 export const date = async (args: string[]): Promise<string> => {
@@ -141,15 +143,15 @@ export const sudo = async (args?: string[]): Promise<string> => {
 // Banner
 export const banner = (args?: string[]): string => {
   return `
-█████        ███                       ███████████                                   
-░░███        ░░░                       ░█░░░███░░░█                                   
- ░███        ████  █████ █████  ██████ ░   ░███  ░   ██████  ████████  █████████████  
- ░███       ░░███ ░░███ ░░███  ███░░███    ░███     ███░░███░░███░░███░░███░░███░░███ 
- ░███        ░███  ░███  ░███ ░███████     ░███    ░███████  ░███ ░░░  ░███ ░███ ░███ 
- ░███      █ ░███  ░░███ ███  ░███░░░      ░███    ░███░░░   ░███      ░███ ░███ ░███ 
- ███████████ █████  ░░█████   ░░██████     █████   ░░██████  █████     █████░███ █████
-░░░░░░░░░░░ ░░░░░    ░░░░░     ░░░░░░     ░░░░░     ░░░░░░  ░░░░░     ░░░░░ ░░░ ░░░░░ 
-
+ ███████████     █████████     █████████ 
+░░███░░░░░███   ███░░░░░███   ███░░░░░███
+ ░███    ░███  ░███    ░███  ███     ░░░ 
+ ░██████████   ░███████████ ░███         
+ ░███░░░░░███  ░███░░░░░███ ░███         
+ ░███    ░███  ░███    ░███ ░░███     ███
+ █████   █████ █████   █████ ░░█████████ 
+░░░░░   ░░░░░ ░░░░░   ░░░░░   ░░░░░░░░░                                   
+                                        
 Type 'help' to see the list of available commands.
 Type 'sumfetch' to display summary.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
