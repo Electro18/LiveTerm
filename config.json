@@ -1,18 +1,20 @@
 {
   "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-  "title": "Mod Panel",
+  "title": "RAC",
   "name": "Electro",
-  "ascii": "RAC",
+  "ascii": "Mod Panel",
   "social": {
-    "discord": "Electro#5862",
-    "linkedin": ""
+    "github": "...",
+    "linkedin": "..."
   },
-  "email": "",
+  "email": "...",
   "ps1_hostname": "rac",
   "ps1_username": "mod",
-  "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+  "repo": "...",
+  "resume_url": "...",
   "donate_urls": {
-    "roblox": ""
+    "paypal": "...",
+    "patreon": "..."
   },
   "colors": {
     "light": {
