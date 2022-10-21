@@ -1,7 +1,7 @@
 import { Head, Html, Main, NextScript } from 'next/document';
 
 const Document = () => {
-    return {
+    return (
         <Html className="dark">
             <Head />
             <body>
@@ -9,7 +9,7 @@ const Document = () => {
                 <NextScript />
             </body>
         </Html>
-    };
+    );
 
 };
 
